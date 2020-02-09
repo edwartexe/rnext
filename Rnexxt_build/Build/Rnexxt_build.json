@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "RNext",
+"productVersion": "0.1",
+"dataUrl": "Rnexxt_build.data.unityweb",
+"wasmCodeUrl": "Rnexxt_build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Rnexxt_build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
